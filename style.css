@@ -238,11 +238,16 @@
 
 }
 
-.portfolio-item {
+.portfolio-image {
     padding-left: 20px;
     margin-bottom: 20px;
     width: 95%;
 }
+
+.portfolio-image:hover {
+    transform: scale(1.05);
+}
+
 
 .subscribe-container {
     padding: 80px;
